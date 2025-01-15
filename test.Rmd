@@ -1,0 +1,11 @@
+---
+title: "Test RMarkdown"
+output: html_document
+---
+
+## Example
+
+This is a test of RMarkdown.
+
+```{r}
+summary(cars)
